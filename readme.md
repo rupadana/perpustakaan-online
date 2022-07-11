@@ -1,3 +1,5 @@
+Projek ini dapat diakses melalui [Github](https://github.com/rupadana/perpustakaan-online)
+
 # Memulai menggunakan XAMPP atau Laragon
 ## Pertama
 Import database ``db_perpustakaan.sql``
@@ -6,7 +8,7 @@ Import database ``db_perpustakaan.sql``
 
 Sesuaikan credential ``config/database.php`` dengan environtment lokal kamu
 
-# Ketiga
+## Ketiga
 
 Ubah url pada ``config/app.php`` sesuai dengan url projek pada XAMPP atau Laragon kamu
 
@@ -52,4 +54,14 @@ username : aprilia
 password : aprilia
 role : User
 
+```
+
+
+
+## Kontributor
+
+```
+Nama : I Wayan Rupadana
+NIM  : 200040018
+Kelas: CA204
 ```
