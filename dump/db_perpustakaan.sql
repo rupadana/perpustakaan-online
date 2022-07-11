@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: db
--- Generation Time: Jul 11, 2022 at 03:28 PM
+-- Generation Time: Jul 11, 2022 at 03:57 PM
 -- Server version: 8.0.29
 -- PHP Version: 8.0.19
 
@@ -153,10 +153,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `username`, `password`, `id_anggota`, `role`) VALUES
-(1, 'wayan', 'wayan', 1, 'admin'),
-(2, 'rupadana1', 'rupadana1', 2, 'user'),
-(3, 'admin', 'admin', 20, 'admin'),
-(5, 'admin', '123', 32, 'admin');
+(1, 'rupadana', 'rupadana', 1, 'admin'),
+(5, 'aprilia', 'aprilia', 32, 'user');
 
 --
 -- Indexes for dumped tables
