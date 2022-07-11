@@ -42,6 +42,7 @@ $pengunjungs = Pengunjung::allWithAnggota();
                 <tfoot>
                     <tr>
                         <th>#</th>
+                        <th>Nama</th>
                         <th>Kelas</th>
                         <th>Keperluan</th>
                         <th>Mencari</th>

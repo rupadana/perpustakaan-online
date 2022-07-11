@@ -42,7 +42,7 @@ Website perpustakaan akan online pada port 8000
 
 http://localhost:8000
 
-NOTE : Jika kamu menggunakan docker maka phpmyadmin dapat diakses melalui http://localhost:8002
+NOTE : Jika kamu menggunakan docker maka phpmyadmin dapat diakses melalui http://localhost:8080
 ## Akun login
 
 ```

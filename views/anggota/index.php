@@ -44,7 +44,9 @@ $anggotas = Anggota::allWithRole();
                     <th>Email</th>
                     <th>Kelas</th>
                     <th>Tanggal Lahir</th>
+                    <th>Jenis Kelamin</th>
                     <th>Role</th>
+
                     <th colspan="1" rowspan="1">Aksi</th>
 
                 </tr>
