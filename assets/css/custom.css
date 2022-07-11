@@ -1,0 +1,8 @@
+.list-anggotas {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.list-anggotas li {
+    padding: 5px 0;
+}
